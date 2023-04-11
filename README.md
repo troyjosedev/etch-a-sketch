@@ -2,6 +2,8 @@
 
 This is a simple implementation of the classic [Etch-A-Sketch toy](https://en.wikipedia.org/wiki/Etch_A_Sketch) using HTML, CSS, and JavaScript. You can draw on the screen by moving your cursor over the grid of squares.
 
+## Live Site
+
 [Live Site](https://troyjosedev.github.io/etch-a-sketch/)
 
 ## Screenshot
@@ -11,7 +13,6 @@ This is a simple implementation of the classic [Etch-A-Sketch toy](https://en.wi
 ## Installation
 
 To run this project locally, you can clone this repository to your local machine using the following command:
-
 
 Once cloned, open the `index.html` file in your preferred browser to run the project.
 
@@ -24,7 +25,3 @@ You can also change the color of the drawing by clicking on the "Change Color" b
 ## Contributing
 
 This is a personal project and contributions are not expected. However, if you do have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/troyjosedev/etch-a-sketch/blob/main/LICENSE).
